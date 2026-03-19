@@ -1,6 +1,4 @@
-Aqui está o **README atualizado com os colaboradores** 👇
 
----
 
 # 📘 Lista de Exercícios em Java
 
